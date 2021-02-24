@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+simpleresource.egg-info/PKG-INFO
+simpleresource.egg-info/SOURCES.txt
+simpleresource.egg-info/dependency_links.txt
+simpleresource.egg-info/top_level.txt
+src/__init__.py
+src/simpleresource.py
+src/version.py
