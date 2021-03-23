@@ -29,7 +29,7 @@ max memory of the function in decorators
 ### @set_max_cpu(nproc=65535)
 
 ```
-max memory of the function in decorators
+max ncpu of the function in decorators
 ```
 
 
